@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+    color: black;
+    text-shadow: 2px 2px skyblue;
+    
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+  }
+  .cart2{
+    margin-bottom: 20px;
+    padding: 10px 20px;
+  }
+ 
